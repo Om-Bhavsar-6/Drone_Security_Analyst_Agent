@@ -352,5 +352,4 @@ tests/test_vlm.py ..                                                     [100%]
 
 In compliance with the FlytBase assignment evaluation requirements, this project was developed co-working with **Claude Code**, **Cursor AI**, **Windsurf**, and **Antigravity**. 
 - See [`docs/ai_tool_log.md`](docs/ai_tool_log.md) for the full co-working log.
-- See [`docs/demo_script.md`](docs/demo_script.md) for the 3–5 minute voiceover demo script.
 - See [`design_report.md`](design_report.md) for the comprehensive 22-section architectural justification report.
